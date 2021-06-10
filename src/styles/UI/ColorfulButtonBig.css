@@ -1,0 +1,24 @@
+.colorfulButtonBig {
+    width: 350px;
+    height: 50px;
+
+    background: linear-gradient(
+        90deg,
+        #4dd4f7 0%,
+        #9090fb 36.46%,
+        #ff6b81 71.35%,
+        #fbdf63 100%
+    );
+
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+
+    color: #FFF;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+
+    margin-left: 33px;
+}

@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Rochester&display=swap");
+
+.dumbgramLanding {
+    /* Create the gradient. */
+    background-image: -webkit-linear-gradient(0deg, #4DD4F7 0%, #9090FB, #FF6B81, #FBDF63, #D9F0F4);
+
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+
+  /* margin-left: 139px;
+  padding-left: 11px; */
+}
+
+h1.dumbgramLanding {
+  font-family: Rochester;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 124px;
+
+  width: 381px;
+  height: 124px;
+  padding-left: 11px;
+}

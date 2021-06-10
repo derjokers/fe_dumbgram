@@ -1,0 +1,27 @@
+.jumbotronLanding {
+    width: 511px;
+    margin-top: 70px;
+}
+
+.bigTextJumbotron {
+  width: 470px;
+  height: 160px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 56px;
+  line-height: 76px;
+  margin-bottom: 17px;
+  color: #ffffff; 
+}
+
+.normalTextJumbotron {
+  width: 381px;
+  height: 50px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 39px;
+
+  color: #6a6a6a;
+}

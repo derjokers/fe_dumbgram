@@ -1,0 +1,67 @@
+.register {
+    position: fixed;
+    left: 35%;
+    top: 10%;
+    background: #1F1F1F;
+    width: 416px;
+    height: 530px;
+    border-radius: 10px;
+}
+
+
+.titleRegister {
+    padding-top: 20px;
+    margin-left: 33px;
+    margin-bottom: 29px;
+    width: 143px;
+    height: 49px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+}
+
+.formReg {
+    width: 350px;
+    height: 50px;
+}
+
+.email {
+    width: 350px;
+    height: 50px;
+    background: rgba(210, 210, 210, 0.25);
+    border: 2px solid #D2D2D2;
+    margin-top: 20px;
+    margin-left: 33px;
+    margin-bottom: 20px;
+    color: #fff;
+    padding-left: 10px;
+}
+
+.name, .username, .password {
+    width: 350px;
+    height: 50px;
+    margin-left: 33px;
+    margin-bottom: 20px;
+    background: rgba(210, 210, 210, 0.25);
+    border: 2px solid #D2D2D2;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: #fff;
+    padding-left: 10px;
+}
+
+.clickLogin {
+    font-size: 18px;
+    line-height: 21px;
+    color: #B1B1B1;
+    margin-top: 19px;
+    margin-left: 60px;
+}
+
+span {
+    font-weight: 800;
+    cursor: pointer;
+}

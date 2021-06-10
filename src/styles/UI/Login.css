@@ -1,0 +1,31 @@
+.login {
+    position: fixed;
+    left: 35%;
+    top: 22%;
+    background: #1F1F1F;
+    width: 416px;
+    height: 380px;
+    border-radius: 10px;
+}
+
+.titleLogin {
+    padding-top: 20px;
+    margin-left: 33px;
+    margin-bottom: 29px;
+    width: 143px;
+    height: 49px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+}
+
+.clickRegister {
+    font-size: 18px;
+    line-height: 21px;
+    color: #B1B1B1;
+    margin-top: 19px;
+    margin-left: 60px;
+}
